@@ -1,3 +1,1 @@
-JvmX (JVM Exploration) is blog series by yours truly where i will share and
-deepen my understanding of not just java and JVM's, but the world of low level programming
-
+JvmX (JVM Exploration)" is a blog series where I explore and share my journey into the intricacies of Java, JVMs, and the fascinating world of low-level programming. Join me as I uncover insights, break down complex topics, and expand our collective understanding of the tech that powers modern applications
